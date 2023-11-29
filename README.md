@@ -1,5 +1,4 @@
 # Monitoring
-Project 4 
 Monitoring and Logging 
  
 Sub Tasks 
