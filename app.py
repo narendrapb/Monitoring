@@ -1,6 +1,6 @@
 from flask import Flask,render_template,request,redirect,url_for,jsonify
 import json
-#this is just to trigger push event
+#this is just to trigger push event1
 app = Flask(__name__)
 database={
     "users":['narendra','naren'],
